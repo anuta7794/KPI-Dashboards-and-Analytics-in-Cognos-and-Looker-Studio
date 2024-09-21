@@ -4,7 +4,7 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 ## Part 1. Customer Loyalty Program KPI Analysis
 
-**Dataset:** The dataset used in this project comes from the VM designed to showcase IBM Cognos Analytics. This dataset is published by IBM and can be found [here](/KPI-Dashboards-and-Analytics-in-Cognos-and-Looker-Studio/Datasets/CustomerLoyaltyProgram.csv).
+**Dataset:** The dataset used in this project comes from the VM designed to showcase IBM Cognos Analytics. This dataset is published by IBM and can be found [here](/KPI-Dashboards-and-Analytics-in-Cognos-and-Looker-Studio/Datasets/).
 
 
 1) KPI Dashboards created in IBM Cognos Analytics:
