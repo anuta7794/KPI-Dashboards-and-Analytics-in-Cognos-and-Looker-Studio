@@ -26,6 +26,8 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 •	Packed Bubble chart “Department Sales by Loyalty Status”
 
+![Screenshot 1](https://github.com/user-attachments/assets/55ec72df-2589-422c-a443-041ee8f74d35)
+
 **_Dashboard C-Revenue:_**
 
 •	Average Revenue
