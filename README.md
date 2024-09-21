@@ -26,7 +26,7 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 •	Packed Bubble chart “Department Sales by Loyalty Status”
 
-![Screenshot 1](https://github.com/user-attachments/assets/55ec72df-2589-422c-a443-041ee8f74d35)
+!(https://github.com/user-attachments/assets/55ec72df-2589-422c-a443-041ee8f74d35)
 
 **_Dashboard C-Revenue:_**
 
@@ -41,9 +41,6 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 •	Bar chart “Margin by Order Year Colored by Product Line”
 
 •	All data is filtered to focus on the categories: Computers & Home Office, Photography, and TV & Video Gaming."
-
-(main/Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf) [Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf](https://github.com/user-attachments/files/17085680/Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf)
-
 
 ### 2) KPI Dashboards created in Looker Studio
 
