@@ -40,7 +40,7 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 •	All data is filtered to focus on the categories: Computers & Home Office, Photography, and TV & Video Gaming."
 
-(/Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf)
+(main/Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf)
 
 ### 2) KPI Dashboards created in Looker Studio
 
