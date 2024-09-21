@@ -11,37 +11,57 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 **_Dashboard A-Product Sales:_**
 
 •	Scorecard “Quantity Sold”
+
 •	Scorecard “Quantity Sold”
+
 •	Line chart “Product Line Performance by Year”
 
 **_Dashboard B-Customer:_**
 
 •	Map chart “Revenue and Quantity Sold by Location”
+
 •	Radial chart “Product Line by Product Line and Coupon Response colored by Coupon Response”
+
 •	Line and column chart “Quantity Sold and Unit Cost by City”
+
 •	Packed Bubble chart “Department Sales by Loyalty Status”
 
 **_Dashboard C-Revenue:_**
+
 •	Average Revenue
+
 •	Average Margin
+
 •	Column chart “Revenue by Product Line Colored by Location Code” (Suburban excluded)
+
 •	Column chart “Top 10 Quantity Sold by City”
+
 •	Bar chart “Margin by Order Year Colored by Product Line”
+
 •	All data is filtered to focus on the categories: Computers & Home Office, Photography, and TV & Video Gaming."
 
-(Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf)
+(/Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf)
 
 ### 2) KPI Dashboards created in Looker Studio
 
 •	Scorecard “Quantity Sold”
+
 •	Scorecard “Revenue”
+
 •	Line Chart “Product Line Performance by Year”
+
 •	Column chart “Quantity Sold by Gender”
+
 •	Combo chart “Revenue by Product Line” (Canada excluded)
+
 •	Bubble map and “Quantity Sold by Country”
+
 •	Heat map “Quantity Sold by Country”
+
 •	Treemap “Quantity Sold by Country”
+
 •	Vega/Vega-Lite graph “Province or State by Revenue”
+
 •	Scatter Bubble chart “Department Sales by Loyalty Status”
 
 ## Part 2. Auto Group Sales and Services KPI Analysis 
@@ -53,16 +73,23 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 **_1) Sales Dashboard:_**
 
 •	Scorecard “Profit”
+
 •	Scorecard “Quantity Sold”
+
 •	Bar chart “Quantity Sold by Model”
+
 •	Scorecard "Average Quantity Sold”
+
 •	Column chart “Profit by Dealer ID”
 
 **_2) Service Dashboard:_**
 
 •	Column chart “Number of Recalls by Model”
+
 •	Treemap “Customer Sentiment” (comparing positive, neutral, and negative reviews)
+
 •	Line and column chart “Profit and Quantity Sold by Month”
+
 •	Column Chart “Number of Recalls by Model Colored by Affected System”
 
 
