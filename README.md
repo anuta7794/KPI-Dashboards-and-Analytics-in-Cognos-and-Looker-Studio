@@ -16,6 +16,8 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 •	Line chart “Product Line Performance by Year”
 
+![Screenshot 2](https://github.com/user-attachments/assets/50245a7f-24e9-429c-b03f-27810e3df580)
+
 **_Dashboard B-Customer:_**
 
 •	Map chart “Revenue and Quantity Sold by Location”
@@ -26,7 +28,7 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 •	Packed Bubble chart “Department Sales by Loyalty Status”
 
-!(https://github.com/user-attachments/assets/55ec72df-2589-422c-a443-041ee8f74d35)
+![Screenshot 1](https://github.com/user-attachments/assets/178966f4-157f-4378-bbc0-9c9388366bbd)
 
 **_Dashboard C-Revenue:_**
 
@@ -41,6 +43,8 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 •	Bar chart “Margin by Order Year Colored by Product Line”
 
 •	All data is filtered to focus on the categories: Computers & Home Office, Photography, and TV & Video Gaming."
+
+![Screenshot 3](https://github.com/user-attachments/assets/016c6c67-5b36-4569-946d-f49108b2a570)
 
 ### 2) KPI Dashboards created in Looker Studio
 
@@ -63,6 +67,13 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 •	Vega/Vega-Lite graph “Province or State by Revenue”
 
 •	Scatter Bubble chart “Department Sales by Loyalty Status”
+
+![Screenshot (224)](https://github.com/user-attachments/assets/7d893c8d-bc04-4324-9609-a19b5e967837)
+![Screenshot (225)](https://github.com/user-attachments/assets/12d4f897-49c9-478a-8595-2fe26a376187)
+![Screenshot (226)](https://github.com/user-attachments/assets/edaf233c-c73f-4877-b2e5-a2b6e40addb1)
+![Screenshot (227)](https://github.com/user-attachments/assets/cb10e85b-5ab9-4bce-a03c-436bae7b91ac)
+![Screenshot (228)](https://github.com/user-attachments/assets/a89ffef4-3d74-42e6-b28a-df3004bccf29)
+![Screenshot (229)](https://github.com/user-attachments/assets/b7ffcd95-605b-44a2-a229-1ca0e6a1c003)
 
 ## Part 2. Auto Group Sales and Services KPI Analysis 
 
