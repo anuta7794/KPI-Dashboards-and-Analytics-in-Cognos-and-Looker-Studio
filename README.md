@@ -93,6 +93,8 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 •	Column chart “Profit by Dealer ID”
 
+![Screenshot (230)](https://github.com/user-attachments/assets/ef8ab422-561d-4250-aba6-daa87c409bd4)
+
 **_2) Service Dashboard:_**
 
 •	Column chart “Number of Recalls by Model”
@@ -102,6 +104,9 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 •	Line and column chart “Profit and Quantity Sold by Month”
 
 •	Column Chart “Number of Recalls by Model Colored by Affected System”
+
+![Screenshot (231)](https://github.com/user-attachments/assets/f31f0ab5-6701-4301-b451-559b8855567b)
+
 
 
 
