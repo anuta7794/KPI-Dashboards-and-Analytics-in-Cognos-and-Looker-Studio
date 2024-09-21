@@ -29,6 +29,8 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 •	Bar chart “Margin by Order Year Colored by Product Line”
 •	All data is filtered to focus on the categories: Computers & Home Office, Photography, and TV & Video Gaming."
 
+(Customer_Loyalty_Program_KPI_Analysis_in_Cognos.pdf)
+
 ### 2) KPI Dashboards created in Looker Studio
 
 •	Scorecard “Quantity Sold”
@@ -46,15 +48,18 @@ The goal of this project is to showcase proficiency in the Cognos Analytics plat
 
 **Dataset:** The dataset used in this lab comes from [here](https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00142&id=i22898C2A4DD748F79E0FC2BD017F4FE8&objRef=i22898C2A4DD748F79E0FC2BD017F4FE8&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i22898C2A4DD748F79E0FC2BD017F4FE8%22%2C%22type%22%3A%22reportView%22%2C%22defaultName%22%3A%22DAT00142%22%2C%22permissions%22%3A%5B%22execute%22%2C%22read%22%2C%22traverse%22%5D%7D) in the IBM Accelerator Catalog. 
 
-KPI Dashboard created in Cognos Analytics:
-1) Sales Dashboard:
+### KPI Dashboard created in Cognos Analytics
+
+**_1) Sales Dashboard:_**
+
 •	Scorecard “Profit”
 •	Scorecard “Quantity Sold”
 •	Bar chart “Quantity Sold by Model”
 •	Scorecard "Average Quantity Sold”
 •	Column chart “Profit by Dealer ID”
 
-2) Service Dashboard:
+**_2) Service Dashboard:_**
+
 •	Column chart “Number of Recalls by Model”
 •	Treemap “Customer Sentiment” (comparing positive, neutral, and negative reviews)
 •	Line and column chart “Profit and Quantity Sold by Month”
